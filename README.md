@@ -1,6 +1,6 @@
 # Assignment#2
 
 - HTML (with CSS for font change.)
-- Local Repository to Github
+- Created in Github and edited in local repository
 - VSCode Screenshot
 - Form Screenshot
