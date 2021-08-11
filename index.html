@@ -6,15 +6,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
   </head>
-  <body>
+  <body style="font-family: Georgia, 'Times New Roman', Times, serif;">
     <h1>Registration Form</h1>
-    <label for="">Enter Name</label><br />
-    <input type="text" id="" name="" /><br />
-    <label for="">Enter Name</label><br />
-    <input type="text" id="" name="" /><br />
-    <label for="">Enter Name</label><br />
-    <input type="text" id="" name="" /><br />
-    <label for="">Enter Name</label><br />
-    <input type="text" id="" name="" /><br />
+    
+    <form action="">
+        <p >Your personal information</p>
+      <label for="fname">Enter your first name</label><br />
+      <input type="text" id="fname" name="fname" /><br />
+      <label for="email">Enter your email address</label><br />
+      <input type="text" id="email" name="email" /><br />
+      <label for="pswd">Enter your password</label><br />
+      <input type="password" id="pswd" name="pswd" /><br />
+      <label for="">Confirm your passowrd</label><br />
+      <input type="password" id="pswd" name="pswd" /><br /><br>
+      <form action="">
+        <label for="gender">Enter your gender</label><br />
+        <input type="radio" name="gender" id="fem" value="female" /><label
+          for="fem"
+          >Female</label
+        ><br />
+        <input type="radio" name="gender" id="male" value="male" /><label
+          for="male"
+          >Male</label
+        ><br /><br>
+        <label for="address">Enter your address:</label><br />
+        <textarea name="address" id=adrs"" cols="30" rows="3"></textarea><br>
+        <input type="submit" value="sign-up">
+      </form>
+    
+    </form>
   </body>
 </html>
