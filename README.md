@@ -1,2 +1,6 @@
-# CodingCourse_Assignment-2_RegistrationForm
-HTML form assignment#2 for importing code from Github 
+# Assignment#2
+
+- HTML (with CSS for font change.)
+- Local Repository to Github
+- VSCode Screenshot
+- Form Screenshot
